@@ -1,5 +1,5 @@
 {
-  "name": "insight-api-client",
+  "name": "insight-api-multi-client",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
